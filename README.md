@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel, Cientista de dados e apixonado por tecnologia! 👋
+## Olá, eu sou o Gabriel, Cientista de dados e apaixonado por tecnologia! 👋
 
 Esse git ainda esta em construção...
 
