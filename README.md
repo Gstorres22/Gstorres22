@@ -6,13 +6,20 @@ Esse git ainda esta em construção...
 - 📚 Estudando pós em DataScience and artificial intelligence
 - 🤖 Entusiasta em Machine Learning e inteligência artificial
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gstorres22/Gstorres22/output/github-contribution-grid-snake-dark.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/Gstorres22/Gstorres22/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 <div>
   <a href="https://github.com/Gstorres22">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gstorres22&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gstorres22&layout=compact&langs_count=8&theme=radical"/>
   </a>
 </div>
-  
+
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
