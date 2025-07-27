@@ -26,9 +26,7 @@ Esse git ainda esta em construção...
     <a href="https://www.facebook.com/profile.php?id=1000037574977" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     <a href="https://www.instagram.com/g__torres15/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
      <a href="https://www.linkedin.com/in/gabriel-torres-7979881b9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
-      
-![Snake animation](https://github.com/stgabriel479 /stgabriel479 /blob/output/github-contribution-grid-snake.svg)      
+</div>   
   
   
   
