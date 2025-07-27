@@ -9,8 +9,8 @@ Esse git ainda esta em construção...
 <div>
   <a href="https://github.com/stgabriel479">
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stgabriel479&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stgabriel479&langs_count=8)](https://github.com/stgabriel479/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gstorres22&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gstorres22&langs_count=8)](https://github.com/Gstorres22/github-readme-stats)
 </div>
   
 <div style="display: inline_block"><br>
