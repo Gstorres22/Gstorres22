@@ -2,8 +2,8 @@
 
 Esse git ainda esta em construção...
 
-- 📊 Hoje trabalho com Dados
-- 📚 Estudando pós em DataScience and artificial intelligence
+- 📊 Engenheiro de IA III
+- 📚 MBA em DataScience and artificial intelligence
 - 🤖 Entusiasta em Machine Learning e inteligência artificial
 
 <div align="center">
