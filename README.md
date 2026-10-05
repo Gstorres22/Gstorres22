@@ -45,6 +45,7 @@ class GabrielTorres:
 <!-- Esta seção é atualizada automaticamente pelo workflow .github/workflows/update-readme.yml -->
 <!-- REPOS:START -->
 <p align="center">
+<a href="https://github.com/Gstorres22/Fluxo_agentico_mcp_b3"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gstorres22&repo=Fluxo_agentico_mcp_b3&theme=tokyonight&hide_border=true&border_radius=10" alt="Fluxo_agentico_mcp_b3" /></a>
 <a href="https://github.com/Gstorres22/BMAD-modelo"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gstorres22&repo=BMAD-modelo&theme=tokyonight&hide_border=true&border_radius=10" alt="BMAD-modelo" /></a>
 <a href="https://github.com/Gstorres22/Gtorres_rep"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gstorres22&repo=Gtorres_rep&theme=tokyonight&hide_border=true&border_radius=10" alt="Gtorres_rep" /></a>
 <a href="https://github.com/Gstorres22/Projetos_dataScience"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gstorres22&repo=Projetos_dataScience&theme=tokyonight&hide_border=true&border_radius=10" alt="Projetos_dataScience" /></a>
